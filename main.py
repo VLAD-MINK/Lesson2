@@ -51,3 +51,4 @@ for day in range(30):
   if obj.alive == False:
     break
   obj.live(day)
+  
